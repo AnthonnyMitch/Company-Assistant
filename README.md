@@ -23,14 +23,28 @@
    
    To install necessary dependencies, run the following command:
   
-  npm install , npm install express, npm install console.table, npm install mysql, npm install asciiart-logo, npm install inquirer.
+  *npm install 
+  
+  *npm install express
+  
+  *npm install console.table
+  
+  *npm install mysql
+  
+  *npm install asciiart-logo
+  
+  *npm install inquirer
   
   
   ## Usage 
   
  Instructions and examples for use:
  
-   Step 1: install and run dependencies.  Step 2: run in the terminal node index.js .  step 3: Answers question and built or modified your company.
+   Step 1: install and run dependencies.  
+   
+   Step 2: run in the terminal node index.js .  
+   
+   step 3: Answers question and built or modified your company.
   
   
   ## Credits
