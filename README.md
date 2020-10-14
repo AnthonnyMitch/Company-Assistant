@@ -1,4 +1,4 @@
-  # Company Asistant 
+  # Company Assistant 
 
   ## Description:
   
