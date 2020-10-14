@@ -4,7 +4,10 @@
   
   This Tool allows business owners to view and manage the departments, roles, and employees in my company. Also, business owners will be able to modified employees information, roles, and even change employees to different deparments.
   
+  ## Explanatory Video 
   
+  https://drive.google.com/file/d/1_U5YHjQkvKzWZsd8J6goderyejCaR_P1/view
+ 
   ## Technologies use:
 
   JAVASCRIPT,NOBE,OTHERS
