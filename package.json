@@ -5,10 +5,15 @@
   "main": "index.js",
   "dependencies": {
     "all": "^0.0.0",
+    "asciiart-logo": "^0.2.6",
     "chalk": "^4.1.0",
+    "console": "^0.7.2",
+    "console.table": "^0.10.0",
+    "ctable": "0.0.3",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1",
-    "sql": "^0.78.0"
+    "sql": "^0.78.0",
+    "table": "^6.0.3"
   },
   "devDependencies": {},
   "scripts": {
