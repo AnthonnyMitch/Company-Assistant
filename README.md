@@ -2,7 +2,7 @@
 
   ## Description:
   
-  This Tool allow business owners to view and manage the departments, roles, and employees in my company. Also, business owners will be able to modified employees information, roles, and even change employees to different deparments.
+  This Tool allows business owners to view and manage the departments, roles, and employees in my company. Also, business owners will be able to modified employees information, roles, and even change employees to different deparments.
   
   
   ## Technologies use:
