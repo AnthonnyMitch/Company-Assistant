@@ -61,7 +61,7 @@ function loadPrompts() {
 }
 
 // Function update employees
-// Needs INNER JOIN 
+
 
 function updateEmployees() {
   connection.query(
@@ -178,7 +178,7 @@ function addEmployees() {
 }
 
 // Function to add role 
-// Needs INNER JOIN 
+
 
 
 function addRoles() {
